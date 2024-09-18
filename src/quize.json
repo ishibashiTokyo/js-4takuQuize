@@ -1,0 +1,22 @@
+[
+  {
+    "question": "1.What is the capital of France?\naaaaaaaa<br>bbbbbbbb",
+    "answers": ["New York", "London", "Paris", "Dublin"],
+    "description": "Paris is the capital of France."
+  },
+  {
+    "question": "2.What is the capital of Ireland?",
+    "answers": ["New York", "London", "Paris", "Dublin"],
+    "description": "Dublin is the capital of Ireland."
+  },
+  {
+    "question": "3.What is the capital of England?",
+    "answers": ["New York", "London", "Paris", "Dublin"],
+    "description": "London is the capital of England."
+  },
+  {
+    "question": "4.What is the capital of USA?",
+    "answers": ["New York", "London", "Paris", "Dublin"],
+    "description": "New York is the capital of USA."
+  }
+]
